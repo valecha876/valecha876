@@ -5,7 +5,6 @@
 - 🏅 Earned the 200+ Badge and the LeetCode 365 Days Badge, proving year-long consistency.
 - 🔎 GitHub Profile Search | React, GitHub API **A web app to search and view GitHub profiles with user details and repositories.**
 - 🤖 AI-powered Browser Extension – Ask Me! | React.js, JavaScript, Gemini API **A browser extension that enables seamless AI interactions without switching tabs.**
-- 
 - 📫 How to reach me **vraddhivalecha@gmail.com**
 - ⚡ Fun fact **I solve coding problems daily to keep my brain active 🚀**
 
