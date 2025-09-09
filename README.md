@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vraddhi Valecha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are : [🔎 GitHub Profile Search | React, GitHub API A web app to search and view GitHub profiles with user details and repositories. 🤖 AI-powered Browser Extension – Ask Me! | React.js, JavaScript, Gemini API A browser extension that enables seamless AI interactions without switching tabs. 💼 Hirred – Job Board Platform | Tailwind CSS, Supabase, Clerk, Shadcn UI A full-stack platform for candidates and recruiters to post, browse, and apply for jobs.](🔎 GitHub Profile Search | React, GitHub API A web app to search and view GitHub profiles with user details and repositories. 🤖 AI-powered Browser Extension – Ask Me! | React.js, JavaScript, Gemini API A browser extension that enables seamless AI interactions without switching tabs. 💼 Hirred – Job Board Platform | Tailwind CSS, Supabase, Clerk, Shadcn UI A full-stack platform for candidates and recruiters to post, browse, and apply for jobs.)
+- 🔎 GitHub Profile Search | React, GitHub API **A web app to search and view GitHub profiles with user details and repositories.**
+
+- 🤖 AI-powered Browser Extension – Ask Me! | React.js, JavaScript, Gemini API **A browser extension that enables seamless AI interactions without switching tabs.**
 
 - 📫 How to reach me **vraddhivalecha@gmail.com**
 
