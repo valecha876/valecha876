@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vraddhi Valecha</h1>
 <h3 align="center">A passionate Web-Developer & Problem Solver from India</h3>
 
-- 💡 Solved 450+ problems on LeetCode, consistently improving problem-solving skills.
+- 💡 Solved 500+ problems on LeetCode, consistently improving problem-solving skills.
 - 🏅 Earned the 200+days submission Badge and the LeetCode 365 Days Badge, proving year-long consistency.
 - 🔎 GitHub Profile Search | React, GitHub API **A web app to search and view GitHub profiles with user details and repositories.**
 - 🤖 AI-powered Browser Extension – Ask Me! | React.js, JavaScript, Gemini API **A browser extension that enables seamless AI interactions without switching tabs.**
